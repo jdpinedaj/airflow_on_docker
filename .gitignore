@@ -1,0 +1,6 @@
+notebooks
+logs
+/examples/gcloud-example/dags/support/
+__pycache__
+/examples
+.vscode/*
